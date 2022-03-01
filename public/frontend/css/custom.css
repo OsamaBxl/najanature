@@ -1,0 +1,20 @@
+/* your styles go here */
+
+.titre {
+    font-size: 25px;
+}
+a {
+    text-decoration: none !important;
+}
+
+.bg-info {
+    background-color: #79a5e8 !important;
+}
+label small {
+    color: white !important;
+}
+
+.se-connecter {
+    background-color: #aed3f5;
+    padding: 30px;
+}
